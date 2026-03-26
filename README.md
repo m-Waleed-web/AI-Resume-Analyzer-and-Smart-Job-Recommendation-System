@@ -5,3 +5,8 @@ The project is to develop a web system based on Artificial Intelligence that ana
 Technologies Use
 
 HTML, CSS, JavaScript, React.js, Python, NLP libraries spaCy and NLTK, MySQL, GitHub API/Job APIs
+## Features
+- Resume Analysis
+- Skill Detection
+- Job Recommendation
+- Job Alerts
